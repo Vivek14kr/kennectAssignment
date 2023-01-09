@@ -1,3 +1,5 @@
+//Difference between prime and next immediate prime number
+
 function isPrime(x) {
   if (x < 2) {
     return false;
