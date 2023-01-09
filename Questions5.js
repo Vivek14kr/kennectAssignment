@@ -1,3 +1,5 @@
+//Get element by id implementation
+
 function getElementById(id) {
 
   const elements = document.getElementsByTagName("*");
